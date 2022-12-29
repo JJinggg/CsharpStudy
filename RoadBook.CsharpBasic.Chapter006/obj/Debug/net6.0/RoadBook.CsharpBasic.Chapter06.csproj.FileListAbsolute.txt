@@ -1,0 +1,15 @@
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/bin/Debug/net6.0/RoadBook.CsharpBasic.Chapter006
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/bin/Debug/net6.0/RoadBook.CsharpBasic.Chapter006.deps.json
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/bin/Debug/net6.0/RoadBook.CsharpBasic.Chapter006.runtimeconfig.json
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/bin/Debug/net6.0/RoadBook.CsharpBasic.Chapter006.dll
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/bin/Debug/net6.0/RoadBook.CsharpBasic.Chapter006.pdb
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter06.csproj.AssemblyReference.cache
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter06.AssemblyInfoInputs.cache
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter06.AssemblyInfo.cs
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter06.csproj.CoreCompileInputs.cache
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter006.dll
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/refint/RoadBook.CsharpBasic.Chapter006.dll
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter006.pdb
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/RoadBook.CsharpBasic.Chapter06.genruntimeconfig.cache
+/Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp/RoadBook.CsharpBasic.Chapter006/obj/Debug/net6.0/ref/RoadBook.CsharpBasic.Chapter006.dll

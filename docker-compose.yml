@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  roadbook.csharpbasic.chapter09:
+    image: ${DOCKER_REGISTRY-}roadbookcsharpbasic
+    build:
+      context: .
+      dockerfile: RoadBook.CsharpBasic.Chapter09/Dockerfile

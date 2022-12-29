@@ -1,0 +1,12 @@
+name: dockercompose15121386438821818588
+services:
+  roadbook.csharpbasic.chapter09:
+    build:
+      context: /Users/wonkeuncho/Desktop/바탕화면/dev/Csharp/MyFirstApp
+      dockerfile: RoadBook.CsharpBasic.Chapter09/Dockerfile
+    image: roadbookcsharpbasic
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose15121386438821818588_default
