@@ -9,7 +9,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MyFirstApp" expanded="True" />
+          <Node name="MyFirstApp" expanded="True" selected="True">
+            <Node name="NuGet.Config files" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -19,7 +21,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MyFirstApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RoadBook.CsharpBasic.Chapter08 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.RoadBook.CsharpBasic.Chapter04 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RoadBook.CsharpBasic.Chapter06 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RoadBook.CsharpBasic.Chapter05 PreferredExecutionTarget="MonoDevelop.Default" />
